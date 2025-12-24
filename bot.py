@@ -8,9 +8,9 @@ from telegram.ext import (
 )
 
 # ===== CONFIG =====
-TOKEN = "8233078592:AAHdnAK47QX-mg5pBd8hapH9Lh79iJfBlNk"
-ADMINS = [5099658065]  
-PAID_CHANNEL_LINK = "https://t.me/+QrPXyACeZFdjNGU1"
+TOKEN = "telegram bot token"
+ADMINS = [admin]  
+PAID_CHANNEL_LINK = "channel link"
 UPI_ID = "abhinavyaduvanshi100-1@oksbi"
 
 # ===== START =====
@@ -87,3 +87,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
